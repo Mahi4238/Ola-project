@@ -1,1 +1,2 @@
 # Ola-project
+This project focuses on analyzing data related to Ola, a leading ride-hailing platform. The goal is to derive insights from various data points such as ride timings, customer ratings, Driver ratings, geographical patterns, and more. The analysis will help in understanding user behavior, optimizing routes, improving customer service, and identifying trends in the ride-hailing industry.
